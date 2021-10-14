@@ -25,18 +25,29 @@ To get the opportunity of working with a fast paced and progressive company, whe
 * Created a machine learning model to classify and organize product images.
 
 ## TRAINING
-**SmartKnower** | Data Science Intern cum Trainee *Feb 2021 – Mar 2021*
-**COURSERA** | Python for Everybody - Specialization Certificate *Apr 2020 – Jun 2020*
+**SmartKnower** | Data Science Intern cum Trainee 
+*Feb 2021 – Mar 2021*
+
+**COURSERA** | Python for Everybody - Specialization Certificate
+*Apr 2020 – Jun 2020*
 
 ## PROJECTS
-1. Live CHESS game with AI Engine - A functional Chess game in which a player can play against another player or against Computer.
-2. SmartKnower (Major Project) - Analysis and Display of Covid Data of different countries and prediction of future cases using ML models and Tableau
-3. Projects on Coursera:
-  o Build a Web Scraping Bot to scrape links and store them in sqlite database o Build a Data Science Web App with StreamLit and Python
-  o Use Wordpress to create a Blog for your Business
-  o Data Visualization with Plotly Express
-  o Linear Regression with NumPy and Python
+### 1. Live CHESS game with AI Engine - A functional Chess game in which a player can play against another player or against Computer.
+![alt-text](chess-image.jpg)
+Photo by <a href="https://unsplash.com/@neon845b?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jani Kaasinen</a> on <a href="https://unsplash.com/s/photos/chess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+### 2. SmartKnower (Major Project) - Analysis and Display of Covid Data of different countries and prediction of future cases using ML models and Tableau
+![alt-text](EDA-Covid.jpg)
+Photo by <a href="https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Chesser</a> on <a href="https://unsplash.com/s/photos/exploratory-data-analysis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Projects on Coursera:
+   - Build a Web Scraping Bot to scrape links and store them in sqlite database o Build a Data Science Web App with StreamLit and Python
+   - Use Wordpress to create a Blog for your Business
+   - Data Visualization with Plotly Express
+   - Linear Regression with NumPy and Python
+
+
+---------------------------------------------------------------------------------------------
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
