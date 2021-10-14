@@ -1,8 +1,39 @@
-## This is the first attempt at creating portfolio website using Github
+# Ashish Jain
+*An aspiring Data Scientist*
 
-## Welcome to GitHub Pages
+## CAREER OBJECTIVE
+To get the opportunity of working with a fast paced and progressive company, where I can utilize my programming skills and technical background to the maximum. To make use of my interpersonal skills to achieve the goals of a company that focuses on delivering the best product and services.
 
-You can use the [editor on GitHub](https://github.com/aashishjain09/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
+* Bachelor of Technology [RTU-Kota] Jaipur Engineering College and Research Centre 2018 - 2022
+  Electronics and Communications Engineering, *7.85 GPA / 10*
+* High School [CBSE Board] Tagore International School, Jaipur
+  12th - *86.2 %*
+  10th - *10.0 CGPA / 10*
+
+## Work Experience
+**REOMNIFY** | Data Engineering Intern
+*Apr 25, 2021 – Jun 30, 2021*
+* Collected HTML and API data from scraping websites and then storing them in relational SQL Database.
+* Interacting with company founders, technology lead and colleagues on a daily basis.
+
+**DUKAAN** | Data Analyst Intern
+*Oct 1, 2020 – Nov 5, 2020*
+* Analyzing product details and images to categorize them for different online stores.
+* Created a machine learning model to classify and organize product images.
+
+## TRAINING
+**SmartKnower** | Data Science Intern cum Trainee *Feb 2021 – Mar 2021*
+**COURSERA** | Python for Everybody - Specialization Certificate *Apr 2020 – Jun 2020*
+
+## PROJECTS
+1. Live CHESS game with AI Engine - A functional Chess game in which a player can play against another player or against Computer.
+2. SmartKnower (Major Project) - Analysis and Display of Covid Data of different countries and prediction of future cases using ML models and Tableau
+3. Projects on Coursera:
+  o Build a Web Scraping Bot to scrape links and store them in sqlite database o Build a Data Science Web App with StreamLit and Python
+  o Use Wordpress to create a Blog for your Business
+  o Data Visualization with Plotly Express
+  o Linear Regression with NumPy and Python
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
