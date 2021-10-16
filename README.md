@@ -20,22 +20,33 @@ To get an opportunity of working with a fast paced and progressive company, wher
   10th - *10.0 CGPA / 10*
 
 ## Work Experience
-**REOMNIFY** | Data Engineering Intern
+### **REOMNIFY** | Data Engineering Intern
 *Apr 25, 2021 – Jun 30, 2021*
 * Collected HTML and API data from scraping websites and then storing them in relational SQL Database.
 * Interacting with company founders, technology lead and colleagues on a daily basis.
 
-**DUKAAN** | Data Analyst Intern
+### **DUKAAN** | Data Analyst Intern
 *Oct 1, 2020 – Nov 5, 2020*
 * Analyzing product details and images to categorize them for different online stores.
 * Created a machine learning model to classify and organize product images.
 
 ## TRAINING
 **SmartKnower** | Data Science Intern cum Trainee
+
 *Feb 2021 – Mar 2021*
 
 **COURSERA** | Python for Everybody - Specialization Certificate
+
 *Apr 2020 – Jun 2020*
+
+**COURSERA** | Google IT Automation with Python Professional Certificate
+
+*Jun 2020 - Present*
+
+**COURSERA** | IBM Data Science Professional Certificate
+
+*Aug 2021 - Present*
+
 
 ## PROJECTS
 ### 1. Live CHESS game with AI Engine
