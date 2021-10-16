@@ -1,13 +1,13 @@
 # Ashish Jain
-*An aspiring Data Scientist*
-# TODO - Check the indentations as well as the notations in the readme file. A lot of work is required.
-## Sites open while editing this readme
+*A Programming and Data Science enthusiast*
+<!-- # TODO - Check the indentations as well as the notations in the readme file. A lot of work is required. -->
+<!-- ## Sites open while editing this readme
 - https://github.com/dataprofessor/Portfolio/blob/main/README.md
 - https://www.youtube.com/watch?v=6NXLGP65S2Q
 - https://www.youtube.com/watch?v=mEZ1Hj5yQ-8
-- https://dataprofessor.github.io/Ken_Portfolio/
+- https://dataprofessor.github.io/Ken_Portfolio/ -->
 
-**Link to this site is right [here](https://aashishjain09.github.io/portfolio/)**
+**Link to portfolio site is right [here](https://aashishjain09.github.io/portfolio/)**
 
 ## CAREER OBJECTIVE
 To get an opportunity of working with a fast paced and progressive company, where I can utilize my programming skills and technical background to the maximum.
