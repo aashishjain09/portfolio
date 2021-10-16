@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ashish Jain</title>
+    <link>https://aashishjain09.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Ashish Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://aashishjain09.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internship: Dukaan</title>
+      <link>https://aashishjain09.github.io/portfolio/post/internship-2/</link>
+      <pubDate>Mon, 05 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://aashishjain09.github.io/portfolio/post/internship-2/</guid>
+      <description>  Analyzing product details and images to categorize them for different online stores. Created a machine learning model to classify and organize product images.  </description>
+    </item>
+    
+    <item>
+      <title>Internship: Reomnify</title>
+      <link>https://aashishjain09.github.io/portfolio/post/internship-1/</link>
+      <pubDate>Mon, 05 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://aashishjain09.github.io/portfolio/post/internship-1/</guid>
+      <description>  Collected HTML and API data from scraping websites and then storing them in relational SQL Database. Interacting with company founders, technology lead and colleagues on a daily basis.  </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Live Chess Game with AI Engine</title>
+      <link>https://aashishjain09.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 05 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://aashishjain09.github.io/portfolio/post/project-1/</guid>
+      <description>A complete and functional Chess Game created out of passion for the game. The game is entirely created using Python Language and runs on a server. A player can play against another player or against a chess AI Engine with variable difficulties. Moves are displayed in correct order beside the chess window. At any moment during the game, moves can be undone and redone cleanly and efficiently. The AI algorithm used allows the game to find the best move in a given position.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Data Analysis and Forecasting of &#39;Covid-19&#39; Data</title>
+      <link>https://aashishjain09.github.io/portfolio/post/project-2/</link>
+      <pubDate>Thu, 22 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://aashishjain09.github.io/portfolio/post/project-2/</guid>
+      <description>Real excerpt from the code I created to analyze the data
+I enrolled in an Edtech Company known as SmartKnower to learn Data Science from basics to advanced level using Python language. During my training I learned about Python Data Structures, Design Patterns, and Object Oriented Programming concepts. I also learned about various libraries in the Python language used for different tasks, such as the &amp;ldquo;numpy&amp;rdquo; library for computing numerical data quickly and efficiently, &amp;ldquo;pandas&amp;rdquo; library to maintain, manage, and draw insights from Datasets.</description>
+    </item>
+    
+  </channel>
+</rss>
